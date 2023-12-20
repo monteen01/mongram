@@ -1,14 +1,33 @@
-# Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
-[![Social Media](https://i.ibb.co/k4BQtdP/Thumbnail.png)](https://youtu.be/_W3R2VwRyF4)
+<h1 align="center" id="title">mongram</h1>
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+<p align="center"><img src="" alt="project-image"></p>
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+<p id="description">Monogram is a cutting-edge social media platform that combines the power of modern web technologies to deliver a seamless and engaging user experience. Built on the React framework powered by Tailwind CSS for sleek styling and leveraging the efficiency of ViteReact Monogram redefines social networking with its user-friendly interface and robust features. The project is backed by Appwrite for database management and storage solutions ensuring scalability security and real-time updates.</p>
 
-## Summary
-Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
+<h2>Project Screenshots:</h2>
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+<img src="https://i.ibb.co/19TmNCD/mongram-screenshot.png" alt="project-screenshot" width="400" height="400">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. To start</p>
+
+```
+clone the repo
+```
+
+<p>2. isntall package</p>
+
+```
+npm install or npm i
+```
+
+<p>3. run</p>
+
+```
+npm run dev
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+credits: Js mastery url : https://www.youtube.com/watch?v=\_W3R2VwRyF4
