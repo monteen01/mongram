@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/19TmNCD/mongram-screenshot.png" alt="project-screenshot" width="400" height="400">
+<img src="https://i.ibb.co/19TmNCD/mongram-screenshot.png" alt="project-screenshot" width="500" height="400">
 
 <h2>🛠️ Installation Steps:</h2>
 
